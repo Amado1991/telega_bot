@@ -5,7 +5,7 @@ const commands = `
 `
 
 const text = `Осанка, растяжка, мобильность всех суставов, работа с женским здоровьем`
-const apiKey = 'AIzaSyBQ8nFgMdAaeqVnZ8Iv5S8LcrYXYI6k1GQ'
+const apiKey = 'ROWS&key=AIzaSyCghGjZp-wXzKxF-FQILxZgjwbVGPZhJus'
 
 const spreadsheetId = '1eCsKe04NX6TZu1-hUE1l_s2tV1aYk_R84G1opz8YPzk'
 
